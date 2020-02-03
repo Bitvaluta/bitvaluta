@@ -1,0 +1,5 @@
+bitvaluta-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/bitvaluta-qt.desktop usr/share/applications
+debian/bitvaluta-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,2 @@
+debian/bin/bitvalutad usr/bin
+src/bitvalutad usr/lib/bitvaluta

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitvaluta
+Comment=Bitvaluta P2P Cryptocurrency
+Comment[fr]=Bitvaluta, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitvaluta, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/bitvaluta-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/bitvaluta;
+Categories=Office;
